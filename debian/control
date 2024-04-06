@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Gudjon I. Gudjonsson <gudjon@gudjon.org>
 Uploaders: KERN packaging <packaging@kernsuite.info>
-Build-Depends: debhelper (>=11~),
+Build-Depends: debhelper-compat (= 13),
                make,
                dh-python,
                python3-all-dev,
@@ -16,7 +16,7 @@ Build-Depends: debhelper (>=11~),
                libqt5svg5-dev,
                qtbase5-dev,
                libqt5opengl5-dev
-Standards-Version: 4.5.0
+Standards-Version: 4.6.2.0
 Homepage: https://github.com/GauiStori/PyQt-Qwt
 #Testsuite: autopkgtest-pkg-python
 Vcs-Browser: https://salsa.debian.org/python-team/modules/pyqt-qwt
