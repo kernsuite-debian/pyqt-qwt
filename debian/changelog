@@ -1,3 +1,10 @@
+pyqt-qwt (1.9.0-1kern3) noble; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * Build for noble
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 25 Mar 2026 00:04:52 +0200
+
 pyqt-qwt (1.9.0-1kern2) jammy; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
